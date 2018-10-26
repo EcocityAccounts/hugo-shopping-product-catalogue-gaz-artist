@@ -3,4 +3,13 @@ languageCode = "en-us"
 title = "Gaz Slum Art from the Streets"
 theme = "hugo-shopping-product-catalogue-simple"
 [Params]
-description = "Check out my latest hand made creations of necklaces, bracelets, earings, pendants, textiles & art."
+    description = "Check out my latest hand made creations of necklaces, bracelets, earings, pendants, textiles & art."
+    amp = true
+    # define which amp-elements you are using globally, these elements will be included in every page
+    ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-carousel","amp-iframe","amp-app-banner","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
+    instagramName = "gazstreetart"
+    email = "gazwalfalme@gmail"
+    twitterName = "gazslum"
+    cover = "images/n0.jpg"
+    author = "Gaz Walfalme"
+    authorlocation = "Njiru, Kenya"
