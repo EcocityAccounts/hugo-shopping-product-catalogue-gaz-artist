@@ -1,9 +1,9 @@
 {
     "title": "Modo 21 Lamp",
     "date": "2018-05-12T15:54:25+05:30",
-    "tags": ["chandeliers"],
-    "categories": ["chandeliers"],
-    "images": ["/img/modo-21-lamp/1.jpg", "/img/modo-21-lamp/2.jpg", "/img/modo-21-lamp/2.jpg"],
+    "tags": ["murals"],
+    "categories": ["murals"],
+    "images": ["/img/modo-21-lamp/thumbnail.jpg"],
     "thumbnailImage": "/img/modo-21-lamp/thumbnail.jpg",
     "actualPrice": "₹ 85,000.00",
     "comparePrice": null,
@@ -12,12 +12,14 @@
     "variants": []
 }
 
-A mid-century modern chandelier which in inspired by the hub and spoke design. It has a modern take on a retro industrial style of lighting. The incandescent bulbs in the smoky glass globes glow beautifully when turned on. This chandelier offers warm ambient lighting and will effortless enhance your home decor. It is a luxury lighting fixture for your living room or dining room. Buy Luxury Chandeliers Online in India at best prices. Free Shipping.
+Ask about possible Free Quotes for mural art projects in and around Nairobi city.
 
-Total Fixture Dimensions (in inches): D1235xH81cm
+## we need from you:
 
-Material: Metal & Glass
+Total Mural Area Dimensions (in meters or feet and inches)
 
-Colour: Black & Grey
+Materials desired: paint, or paint with sculpture, vertical landscape features
 
-Bulb Holder: E14
+Colours: Black & Grey, many, bright, etc.
+
+Thematic concept: 
