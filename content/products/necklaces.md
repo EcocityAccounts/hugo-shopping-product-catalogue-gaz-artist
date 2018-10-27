@@ -5,7 +5,7 @@
     "categories": ["Necklaces"],
     "images": ["/img/necklaces/1.png"],
     "thumbnailImage": "/img/alessa/thumnail.png",
-    "actualPrice": null,
+    "actualPrice": "$10 USD",
     "comparePrice": null,
     "inStock": null,
     "options": {
