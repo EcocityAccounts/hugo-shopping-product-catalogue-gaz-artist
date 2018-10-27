@@ -13,13 +13,19 @@
     },
     "variants":  [
         {
-            "optionCombination" : ["With extension extra beads"],
+            "optionCombination" : ["Carved wooden bracelet"],
+            "comparePrice": null,
+            "actualPrice": "$10 USD",
+            "inStock": true
+        },
+        {
+            "optionCombination" : ["Flat with two button clasp"],
             "comparePrice": null,
             "actualPrice": "$12 USD",
             "inStock": true
         },
         {
-            "optionCombination" : ["Without extra beads"],
+            "optionCombination" : ["traditional beaded cylinder bracelet"],
             "comparePrice": null,
             "actualPrice": "$10 USD",
             "inStock": true
@@ -28,7 +34,7 @@
 
 }
 
-The hand beaded designs I sell are individually designed and carefully made with love for each peice. Asante sana, thank you for taking a look, and your support.
+The traditional hand beaded bracelets I design and sell are highest quality and durability. We design them to endure living of life. Maisha yangu may it be good.. Custom beadwork designs are available individually upon request.  Each piece is carefully made with love. Asante sana, thank you for taking a look, and your support.
 
 - High quality
 - Warranty - please notify me if you run into some issues with shipping, or a product breaking within 1-month
