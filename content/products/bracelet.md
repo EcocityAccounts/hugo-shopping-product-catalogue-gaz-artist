@@ -3,8 +3,8 @@
     "date": "2018-05-10T08:02:34+05:30",
     "tags": ["Beaded Bracelets"],
     "categories": ["Bracelets"],
-    "images" : ["/img/bracelet1.jpg", "/img/bracelet2.jpg"],
-    "thumbnailImage": "/img/thumbnail.jpg",
+    "images" : ["/img/bracelet/44506649_1306062176201261_9063317576603402240_o.jpg", "/img/bracelet/2.jpg"],
+    "thumbnailImage": "/img/bracelet/44506649_1306062176201261_9063317576603402240_o.jpg",
     "actualPrice": null,
     "comparePrice": null,
     "inStock": null,
@@ -15,7 +15,7 @@
         {
             "optionCombination" : ["With extension extra beads"],
             "comparePrice": null,
-            "actualPrice": "$10 USD",
+            "actualPrice": "$12 USD",
             "inStock": true
         },
         {
