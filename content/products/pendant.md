@@ -4,7 +4,7 @@
     "tags": ["Pendant","Necklace"],
     "categories": ["Pendants"],
     "images": ["/img/pendant/1.png", "/img/pendant/2.png"],
-    "thumbnailImage": "/img/pendant/womens_pendant_necklace.jpg",
+    "thumbnailImage": "/img/pendant/womens_pendant_necklaces.jpg",
     "actualPrice": "$10 USD",
     "comparePrice": "$100 USD",
     "inStock": true,
