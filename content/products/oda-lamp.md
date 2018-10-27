@@ -1,5 +1,5 @@
 {
-    "title": "Oda Lamp",
+    "title": "Art Commissions",
     "date": "2018-05-12T13:50:55+05:30",
     "tags": ["Original Art","East African Art"],
     "categories": ["Art"],
@@ -11,3 +11,5 @@
     "options": {},
     "variants": []
 }
+
+Gaz and his team are available to plan art projects, please get in touch.
