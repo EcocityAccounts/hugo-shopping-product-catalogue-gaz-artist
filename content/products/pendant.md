@@ -5,8 +5,8 @@
     "categories": ["Pendants"],
     "images": ["/img/pendant/1.png", "/img/pendant/2.png"],
     "thumbnailImage": "/img/pendant/thumbnail.png",
-    "actualPrice": "₹ 3,744.00",
-    "comparePrice": null,
+    "actualPrice": "$10",
+    "comparePrice": $100,
     "inStock": true,
     "options": {},
     "variants": []
