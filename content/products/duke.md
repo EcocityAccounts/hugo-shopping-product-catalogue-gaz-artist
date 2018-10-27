@@ -4,7 +4,7 @@
     "tags": ["Pendant Jewelry"],
     "categories": ["Pendants"],
     "images": ["/3.jpg"],
-    "thumbnailImage": "/pendant.jpg",
+    "thumbnailImage": "img/duke/thumbnail.jpg",
     "actualPrice": "$ 10 USD",
     "comparePrice": null,
     "inStock": true,
