@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/oda-lamp/thumbnail.jpg",
     "actualPrice": "$150 USD",
     "comparePrice": "$10 000 USD",
-    "inStock": false,
+    "inStock": true,
     "options": {},
     "variants": []
 }
