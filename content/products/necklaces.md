@@ -11,7 +11,7 @@
     "options": {
             "Color": ["Red Gold and Green", "Green", "White", "Black","Varied"]
     },
-    "variants": null
-}    
+    "variants": []
+}
 
 Perfect necklaces for your loved ones.
