@@ -1,5 +1,5 @@
 {
-    "title": "Azure Blue De Stijl Inspired Bedside Retro Light",
+    "title": "Bracelet",
     "date": "2018-05-10T08:02:34+05:30",
     "tags": ["Beaded Bracelets"],
     "categories": ["Bracelets"],
