@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/alessa/thumnail.png",
     "actualPrice": "$10 USD",
     "comparePrice": null,
-    "inStock": null,
+    "inStock": true,
     "options": {
             "Color": ["Red Gold and Green", "Green", "White", "Black","Varied"]
     },
