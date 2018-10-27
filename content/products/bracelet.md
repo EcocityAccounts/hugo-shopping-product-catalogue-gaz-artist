@@ -15,14 +15,14 @@
         {
             "optionCombination" : ["With extension extra beads"],
             "comparePrice": null,
-            "actualPrice": "₹ 2917.00",
+            "actualPrice": "$10 USD",
             "inStock": true
         },
         {
             "optionCombination" : ["Without extra beads"],
             "comparePrice": null,
-            "actualPrice": "₹ 2000.00",
-            "inStock": false
+            "actualPrice": "$10 USD",
+            "inStock": true
         }
     ]
 
