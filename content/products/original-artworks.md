@@ -7,7 +7,7 @@
     "thumbnailImage": "/img/original-artworks/thumbnail.png",
     "actualPrice": "$50 USD",
     "comparePrice": "$3000.00 USD",
-    "inStock": false,
+    "inStock": true,
     "options": {},
     "variants": []
 }
