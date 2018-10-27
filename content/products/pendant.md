@@ -5,8 +5,8 @@
     "categories": ["Pendants"],
     "images": ["/img/pendant/1.png", "/img/pendant/2.png"],
     "thumbnailImage": "/img/pendant/thumbnail.png",
-    "actualPrice": "$10",
-    "comparePrice": $100,
+    "actualPrice": "$10 USD",
+    "comparePrice": "$100 USD",
     "inStock": true,
     "options": {},
     "variants": []
