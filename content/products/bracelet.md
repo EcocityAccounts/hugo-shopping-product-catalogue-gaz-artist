@@ -3,7 +3,7 @@
     "date": "2018-05-10T08:02:34+05:30",
     "tags": ["Beaded Bracelets"],
     "categories": ["Bracelets"],
-    "images" : ["/img/1.jpg"],
+    "images" : ["/img/bracelet1.jpg", "/img/bracelet2.jpg"],
     "thumbnailImage": "/img/thumbnail.jpg",
     "actualPrice": null,
     "comparePrice": null,
