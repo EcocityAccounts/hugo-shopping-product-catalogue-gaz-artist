@@ -5,8 +5,8 @@
     "categories": ["Art"],
     "images": ["/i3.jpg"],
     "thumbnailImage": "/img/original-artworks/thumbnail.png",
-    "actualPrice": "50",
-    "comparePrice": "100 - 3000.00 USD",
+    "actualPrice": "$50 USD",
+    "comparePrice": "$3000.00 USD",
     "inStock": false,
     "options": {},
     "variants": []
