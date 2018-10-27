@@ -1,7 +1,7 @@
 {
     "title": "Earing Collection",
     "date": "2018-05-10T20:17:46+05:30",
-    "tags": ["Pendant Light"],
+    "tags": ["Earings"],
     "categories": ["Earings"],
     "images": ["/img/4.jpg"],
     "thumbnailImage": "/img/thumbnail.jpg",
