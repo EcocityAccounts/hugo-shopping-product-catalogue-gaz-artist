@@ -12,4 +12,4 @@
     "variants": []
 }
 
-Enjoy cupporting producers of classic works of sculpture, design, kila kitu, painting, beading, mural work by Gaz himself and other highly collectible East African artists.
+Enjoy supporting producers of classic works of sculpture, design, kila kitu, painting, beading, mural work by Gaz himself and other highly collectible East African artists.
