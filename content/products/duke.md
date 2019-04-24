@@ -4,7 +4,7 @@
     "tags": ["Pendant Jewelry"],
     "categories": ["Pendants"],
     "images": ["/img/pentant/3.jpg"],
-    "thumbnailImage": "img/duke/thumbnail.jpg",
+    "thumbnailImage": "/img/duke/thumbnail.jpg",
     "actualPrice": "$ 10 USD",
     "comparePrice": null,
     "inStock": true,
